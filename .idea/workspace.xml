@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ec485d0-4f25-4ed5-a1af-ea6c18b19d35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l9977xwluRQedcvq0FTxPV0pQa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/script/script.js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Нурлан\Desktop\mogo\image\header" />
+      <recent name="C:\Users\Нурлан\Desktop\mogo\image" />
+      <recent name="C:\Users\Нурлан\Desktop\practice\image" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ec485d0-4f25-4ed5-a1af-ea6c18b19d35" name="Default Changelist" comment="" />
+      <created>1606998269858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606998269858</updated>
+      <workItem from="1606998272145" duration="5443000" />
+      <workItem from="1607008195193" duration="1003000" />
+      <workItem from="1607010562620" duration="6525000" />
+      <workItem from="1607055445097" duration="5786000" />
+      <workItem from="1607071239717" duration="4298000" />
+      <workItem from="1607145848981" duration="6740000" />
+      <workItem from="1607170197650" duration="6330000" />
+      <workItem from="1607180425686" duration="3280000" />
+      <workItem from="1607322112240" duration="8097000" />
+      <workItem from="1607344974248" duration="6529000" />
+      <workItem from="1607752651085" duration="4221000" />
+      <workItem from="1607757011381" duration="201000" />
+      <workItem from="1607775663928" duration="5671000" />
+      <workItem from="1607785053981" duration="595000" />
+      <workItem from="1607786775123" duration="3451000" />
+      <workItem from="1607830904416" duration="5947000" />
+      <workItem from="1607874998798" duration="3848000" />
+      <workItem from="1607879064574" duration="834000" />
+      <workItem from="1607880286318" duration="1714000" />
+      <workItem from="1607921209739" duration="1910000" />
+      <workItem from="1608003207284" duration="4016000" />
+      <workItem from="1608034442025" duration="3379000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="91" y="91" width="1184" height="538" key="DiffContextDialog" timestamp="1607011739020">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="91" y="91" width="1184" height="538" key="DiffContextDialog/0.0.1366.720@0.0.1366.720" timestamp="1607011739020" />
+    <state x="359" y="48" key="FileChooserDialogImpl" timestamp="1608012431420">
+      <screen x="0" y="48" width="1366" height="720" />
+    </state>
+    <state x="359" y="0" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1607757219765" />
+    <state x="359" y="48" key="FileChooserDialogImpl/0.48.1366.720@0.48.1366.720" timestamp="1608012431420" />
+    <state x="91" y="91" width="1184" height="538" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1607011989378">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="91" y="91" width="1184" height="538" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.720@0.0.1366.720" timestamp="1607011989378" />
+    <state x="91" y="91" width="1184" height="538" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1607011183089">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="91" y="91" width="1184" height="538" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.720@0.0.1366.720" timestamp="1607011183089" />
+    <state x="176" y="-2" key="search.everywhere.popup" timestamp="1607010678860">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="176" y="-2" key="search.everywhere.popup/0.0.1366.720@0.0.1366.720" timestamp="1607010678860" />
+  </component>
+</project>
